@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Tradução PT-BR de DELTARUNE (por IA)</h1>
-  <p>Uma tradução 'tapa-buraco' feita baseado na tradução do grupo <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a> de <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
+  <p>Uma tradução 'tapa-buraco' feita baseado na tradução do grupo [TEIARRUMA](https://github.com/teiarruma/deltarune-ptbr) de [DELTARUNE](https://deltarune.com/), um jogo por Toby Fox. <br>
 </div>
 
 # Creditos maximo a TEIARRUMA
