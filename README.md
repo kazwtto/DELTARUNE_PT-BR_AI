@@ -14,3 +14,5 @@ Ainda assim não é perfeita e está longe disto, mas pretendo ir atualizando at
 ## Em casos de direitos autorais, entre em contato.
 
 Para instalar a tradução, siga as intruções da TEIARRUMA no [HÍPERLINK] acima.
+
+Projeto sem fins lucrativos, de fã para fã.
