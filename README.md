@@ -7,8 +7,8 @@
 - Varios sprites foram retirado do projeto deles.
 
 <p>A tradução em si foi feita majoritariamente por IA manualmente para isso e revisada por humanos (vulgo, eu mesmo).
-<p>Graficos, Fontes etc. foram feitos manualmente por mim.
-<p>Ainda assim não é perfeita e está longe disto, mas pretendo ir atualizando até que a TEIARRUMA lance a tradução oficial deles.
+<p>Graficos, Fontes, Video etc. foram traduzidos manualmente por mim (sem IA).
+<p>Ainda assim não é perfeita e está longe disto, e definitivamente não substitui a tradução humana.
 
 ## Usem os sprites, video e scripts como quiser.
 
