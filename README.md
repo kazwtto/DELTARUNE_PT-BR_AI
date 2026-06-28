@@ -13,8 +13,13 @@ Ainda assim não é perfeita e está longe disto, mas pretendo ir atualizando at
 
 ## Em casos de direitos autorais, entre em contato.
 
-![Captura de Tela](screenshots/sh1.png)
+![Captura de Tela1](screenshots/sh1.png)
+![Captura de Tela2](screenshots/sh2.png)
 
 Para instalar a tradução, siga as intruções da TEIARRUMA no [HÍPERLINK] acima.
 
-Projeto sem fins lucrativos, de fã para fã.
+> [!WARNING]  
+> **Nota:** Projeto sem fins lucrativos, de fã para fã. Proibido qualquer tipo de comercialização com o projeto.
+
+> [!WARNING]  
+> **Nota²:** Verificador de Tradução provavélmente será removido nos proximos updates.
