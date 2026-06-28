@@ -4,9 +4,10 @@
 </div>
 
 ## Creditos maximo a TEIARRUMA
-- Varios sprites foram pegos do projeto deles. Os sprites não traduzidos foram feitos por mim, manualmente.
+- Varios sprites foram pegos do projeto deles.
 
-A traducao em si foi feita majoritariamente por IA manualmente para isso e revisada por humanos (vulgo, eu mesmo). 
+A tradução em si foi feita majoritariamente por IA manualmente para isso e revisada por humanos (vulgo, eu mesmo).
+Graficos, Fontes etc. foram feitos manualmente por mim.
 Ainda assim não é perfeita e está longe disto, mas pretendo ir atualizando até que a TEIARRUMA lance a tradução oficial deles.
 
 ## Usem os sprites, video e scripts como quiser.
@@ -22,4 +23,4 @@ Para instalar a tradução, siga as intruções da TEIARRUMA no [HÍPERLINK] aci
 > **Nota:** Projeto sem fins lucrativos, de fã para fã. Proibido qualquer tipo de comercialização com o projeto.
 
 > [!WARNING]  
-> **Nota²:** Verificador de Tradução provavélmente será removido nos proximos updates.
+> **Nota²:** Verificador de Tradução PROVAVELMENTE será removido nos proximos updates.
